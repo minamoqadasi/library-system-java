@@ -10,7 +10,7 @@ A simple Java application for managing books and students in a library. This pro
 - Print all checked-out books and their borrowers
 - Built with generics and a custom LinkedList implementation
 
-## Project Files
+## Files
 
  - Driver.java              # Runs the demo program
  - Book.java                # Book class
