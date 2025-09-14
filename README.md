@@ -12,11 +12,11 @@ A simple Java application for managing books and students in a library. This pro
 
 ## Project Files
 
- Driver.java              # Runs the demo program
- Book.java                # Book class
- Student.java             # Student class
- Node.java                # Node for LinkedList
- LinkedListInterface.java # Interface for LinkedList
- LinkedList.java          # Custom LinkedList implementation
- LibraryInterface.java    # Interface for Library
- Library.java             # Library implementation
+ - Driver.java              # Runs the demo program
+ - Book.java                # Book class
+ - Student.java             # Student class
+ - Node.java                # Node for LinkedList
+ - LinkedListInterface.java # Interface for LinkedList
+ - LinkedList.java          # Custom LinkedList implementation
+ - LibraryInterface.java    # Interface for Library
+ - Library.java             # Library implementation
